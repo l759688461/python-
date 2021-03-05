@@ -1,2 +1,4 @@
-# python-
-爬虫毕设，前端pyqt5
+python爬虫毕设
+爬虫毕设
+前端pyqt5
+数据库mysql
